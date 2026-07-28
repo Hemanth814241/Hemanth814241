@@ -55,7 +55,6 @@ My goal is to begin my career as a **SOC Analyst (L1)** where I can apply my kno
 ### Tools
 
 - Splunk Universal Forwarder
-- Git
 - GitHub
 - VirtualBox
 - Wireshark
